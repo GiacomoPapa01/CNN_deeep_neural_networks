@@ -1,7 +1,7 @@
-# Blood Cell Classification — MobileNetV3Large + Transfer Learning
+# Blood Cell Classification MobileNetV3Large + Transfer Learning
 
 **8-class image classification of blood cell types from microscopy images.**  
-Final result: **98.5% accuracy / F1** on the test set — **top 8 out of 300+** participants.
+Final result: **98.5% accuracy / F1** on the test set **top 8 out of 300+** participants.
 
 *Developed as part of the Artificial Neural Networks and Deep Learning course, Politecnico di Milano.*
 
